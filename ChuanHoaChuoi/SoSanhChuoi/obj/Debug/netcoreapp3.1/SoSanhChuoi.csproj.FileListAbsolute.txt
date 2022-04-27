@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Code\C#\SoSanhChuoi\SoSanhChuoi\bin\Debug\netcoreapp3.1\SoSanhChuoi.exe
+C:\Users\Admin\OneDrive\Code\C#\SoSanhChuoi\SoSanhChuoi\bin\Debug\netcoreapp3.1\SoSanhChuoi.deps.json
+C:\Users\Admin\OneDrive\Code\C#\SoSanhChuoi\SoSanhChuoi\bin\Debug\netcoreapp3.1\SoSanhChuoi.runtimeconfig.json
+C:\Users\Admin\OneDrive\Code\C#\SoSanhChuoi\SoSanhChuoi\bin\Debug\netcoreapp3.1\SoSanhChuoi.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Code\C#\SoSanhChuoi\SoSanhChuoi\bin\Debug\netcoreapp3.1\SoSanhChuoi.dll
+C:\Users\Admin\OneDrive\Code\C#\SoSanhChuoi\SoSanhChuoi\bin\Debug\netcoreapp3.1\SoSanhChuoi.pdb
+C:\Users\Admin\OneDrive\Code\C#\SoSanhChuoi\SoSanhChuoi\obj\Debug\netcoreapp3.1\SoSanhChuoi.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Code\C#\SoSanhChuoi\SoSanhChuoi\obj\Debug\netcoreapp3.1\SoSanhChuoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Code\C#\SoSanhChuoi\SoSanhChuoi\obj\Debug\netcoreapp3.1\SoSanhChuoi.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Code\C#\SoSanhChuoi\SoSanhChuoi\obj\Debug\netcoreapp3.1\SoSanhChuoi.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Code\C#\SoSanhChuoi\SoSanhChuoi\obj\Debug\netcoreapp3.1\SoSanhChuoi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Code\C#\SoSanhChuoi\SoSanhChuoi\obj\Debug\netcoreapp3.1\SoSanhChuoi.dll
+C:\Users\Admin\OneDrive\Code\C#\SoSanhChuoi\SoSanhChuoi\obj\Debug\netcoreapp3.1\SoSanhChuoi.pdb
+C:\Users\Admin\OneDrive\Code\C#\SoSanhChuoi\SoSanhChuoi\obj\Debug\netcoreapp3.1\SoSanhChuoi.genruntimeconfig.cache

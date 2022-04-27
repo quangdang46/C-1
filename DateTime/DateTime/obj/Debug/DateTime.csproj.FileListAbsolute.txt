@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Code\C#\DateTime\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\Admin\OneDrive\Code\C#\DateTime\DateTime\bin\Debug\DateTime.exe
+C:\Users\Admin\OneDrive\Code\C#\DateTime\DateTime\bin\Debug\DateTime.pdb
+C:\Users\Admin\OneDrive\Code\C#\DateTime\DateTime\obj\Debug\DateTime.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Code\C#\DateTime\DateTime\obj\Debug\DateTime.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Code\C#\DateTime\DateTime\obj\Debug\DateTime.Form1.resources
+C:\Users\Admin\OneDrive\Code\C#\DateTime\DateTime\obj\Debug\DateTime.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Code\C#\DateTime\DateTime\obj\Debug\DateTime.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Code\C#\DateTime\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Code\C#\DateTime\DateTime\obj\Debug\DateTime.exe
+C:\Users\Admin\OneDrive\Code\C#\DateTime\DateTime\obj\Debug\DateTime.pdb

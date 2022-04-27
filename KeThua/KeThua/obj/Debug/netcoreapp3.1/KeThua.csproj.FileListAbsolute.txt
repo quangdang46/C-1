@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\KeThua\KeThua\bin\Debug\netcoreapp3.1\KeThua.exe
+C:\Users\Admin\source\repos\KeThua\KeThua\bin\Debug\netcoreapp3.1\KeThua.deps.json
+C:\Users\Admin\source\repos\KeThua\KeThua\bin\Debug\netcoreapp3.1\KeThua.runtimeconfig.json
+C:\Users\Admin\source\repos\KeThua\KeThua\bin\Debug\netcoreapp3.1\KeThua.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\KeThua\KeThua\bin\Debug\netcoreapp3.1\KeThua.dll
+C:\Users\Admin\source\repos\KeThua\KeThua\bin\Debug\netcoreapp3.1\KeThua.pdb
+C:\Users\Admin\source\repos\KeThua\KeThua\obj\Debug\netcoreapp3.1\KeThua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\KeThua\KeThua\obj\Debug\netcoreapp3.1\KeThua.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\KeThua\KeThua\obj\Debug\netcoreapp3.1\KeThua.AssemblyInfo.cs
+C:\Users\Admin\source\repos\KeThua\KeThua\obj\Debug\netcoreapp3.1\KeThua.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\KeThua\KeThua\obj\Debug\netcoreapp3.1\KeThua.dll
+C:\Users\Admin\source\repos\KeThua\KeThua\obj\Debug\netcoreapp3.1\KeThua.pdb
+C:\Users\Admin\source\repos\KeThua\KeThua\obj\Debug\netcoreapp3.1\KeThua.genruntimeconfig.cache

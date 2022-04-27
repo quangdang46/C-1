@@ -1,0 +1,13 @@
+C:\Users\Admin\OneDrive\Code\C#\Ham\Ham\bin\Debug\netcoreapp3.1\Ham.exe
+C:\Users\Admin\OneDrive\Code\C#\Ham\Ham\bin\Debug\netcoreapp3.1\Ham.deps.json
+C:\Users\Admin\OneDrive\Code\C#\Ham\Ham\bin\Debug\netcoreapp3.1\Ham.runtimeconfig.json
+C:\Users\Admin\OneDrive\Code\C#\Ham\Ham\bin\Debug\netcoreapp3.1\Ham.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Code\C#\Ham\Ham\bin\Debug\netcoreapp3.1\Ham.dll
+C:\Users\Admin\OneDrive\Code\C#\Ham\Ham\bin\Debug\netcoreapp3.1\Ham.pdb
+C:\Users\Admin\OneDrive\Code\C#\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Code\C#\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Code\C#\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Code\C#\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Code\C#\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.dll
+C:\Users\Admin\OneDrive\Code\C#\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.pdb
+C:\Users\Admin\OneDrive\Code\C#\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.genruntimeconfig.cache

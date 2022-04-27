@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Code\C#\CoBanWF\CoBanWF\bin\Debug\CoBanWF.exe.config
+C:\Users\Admin\OneDrive\Code\C#\CoBanWF\CoBanWF\bin\Debug\CoBanWF.exe
+C:\Users\Admin\OneDrive\Code\C#\CoBanWF\CoBanWF\bin\Debug\CoBanWF.pdb
+C:\Users\Admin\OneDrive\Code\C#\CoBanWF\CoBanWF\obj\Debug\CoBanWF.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Code\C#\CoBanWF\CoBanWF\obj\Debug\CoBanWF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Code\C#\CoBanWF\CoBanWF\obj\Debug\CoBanWF.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Code\C#\CoBanWF\CoBanWF\obj\Debug\CoBanWF.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Code\C#\CoBanWF\CoBanWF\obj\Debug\CoBanWF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Code\C#\CoBanWF\CoBanWF\obj\Debug\CoBanWF.exe
+C:\Users\Admin\OneDrive\Code\C#\CoBanWF\CoBanWF\obj\Debug\CoBanWF.pdb
+C:\Users\Admin\OneDrive\Code\C#\CoBanWF\CoBanWF\obj\Debug\CoBanWF.frmMain.resources

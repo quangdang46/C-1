@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Code\C#\CoBanWF\CoBanWF\bin\Debug\CoBanWF.exe.config
+C:\Users\Admin\OneDrive\Code\C#\CoBanWF\CoBanWF\bin\Debug\CoBanWF.exe
+C:\Users\Admin\OneDrive\Code\C#\CoBanWF\CoBanWF\bin\Debug\CoBanWF.pdb
+C:\Users\Admin\OneDrive\Code\C#\CoBanWF\CoBanWF\obj\Debug\CheckBoxRadio.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Code\C#\CoBanWF\CoBanWF\obj\Debug\CheckBoxRadio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Code\C#\CoBanWF\CoBanWF\obj\Debug\CoBanWF.frmMain.resources
+C:\Users\Admin\OneDrive\Code\C#\CoBanWF\CoBanWF\obj\Debug\CoBanWF.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Code\C#\CoBanWF\CoBanWF\obj\Debug\CheckBoxRadio.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Code\C#\CoBanWF\CoBanWF\obj\Debug\CheckBoxRadio.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Code\C#\CoBanWF\CoBanWF\obj\Debug\CoBanWF.exe
+C:\Users\Admin\OneDrive\Code\C#\CoBanWF\CoBanWF\obj\Debug\CoBanWF.pdb

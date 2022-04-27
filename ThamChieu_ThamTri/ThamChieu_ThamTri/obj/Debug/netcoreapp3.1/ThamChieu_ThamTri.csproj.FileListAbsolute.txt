@@ -1,0 +1,13 @@
+C:\Users\Admin\OneDrive\Code\C#\ThamChieu_ThamTri\ThamChieu_ThamTri\obj\Debug\netcoreapp3.1\ThamChieu_ThamTri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Code\C#\ThamChieu_ThamTri\ThamChieu_ThamTri\obj\Debug\netcoreapp3.1\ThamChieu_ThamTri.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Code\C#\ThamChieu_ThamTri\ThamChieu_ThamTri\obj\Debug\netcoreapp3.1\ThamChieu_ThamTri.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Code\C#\ThamChieu_ThamTri\ThamChieu_ThamTri\obj\Debug\netcoreapp3.1\ThamChieu_ThamTri.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Code\C#\ThamChieu_ThamTri\ThamChieu_ThamTri\bin\Debug\netcoreapp3.1\ThamChieu_ThamTri.exe
+C:\Users\Admin\OneDrive\Code\C#\ThamChieu_ThamTri\ThamChieu_ThamTri\bin\Debug\netcoreapp3.1\ThamChieu_ThamTri.deps.json
+C:\Users\Admin\OneDrive\Code\C#\ThamChieu_ThamTri\ThamChieu_ThamTri\bin\Debug\netcoreapp3.1\ThamChieu_ThamTri.runtimeconfig.json
+C:\Users\Admin\OneDrive\Code\C#\ThamChieu_ThamTri\ThamChieu_ThamTri\bin\Debug\netcoreapp3.1\ThamChieu_ThamTri.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Code\C#\ThamChieu_ThamTri\ThamChieu_ThamTri\bin\Debug\netcoreapp3.1\ThamChieu_ThamTri.dll
+C:\Users\Admin\OneDrive\Code\C#\ThamChieu_ThamTri\ThamChieu_ThamTri\bin\Debug\netcoreapp3.1\ThamChieu_ThamTri.pdb
+C:\Users\Admin\OneDrive\Code\C#\ThamChieu_ThamTri\ThamChieu_ThamTri\obj\Debug\netcoreapp3.1\ThamChieu_ThamTri.dll
+C:\Users\Admin\OneDrive\Code\C#\ThamChieu_ThamTri\ThamChieu_ThamTri\obj\Debug\netcoreapp3.1\ThamChieu_ThamTri.pdb
+C:\Users\Admin\OneDrive\Code\C#\ThamChieu_ThamTri\ThamChieu_ThamTri\obj\Debug\netcoreapp3.1\ThamChieu_ThamTri.genruntimeconfig.cache

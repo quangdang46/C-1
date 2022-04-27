@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Code\C#\VongLap\VongLap\bin\Debug\netcoreapp3.1\VongLap.exe
+C:\Users\Admin\OneDrive\Code\C#\VongLap\VongLap\bin\Debug\netcoreapp3.1\VongLap.deps.json
+C:\Users\Admin\OneDrive\Code\C#\VongLap\VongLap\bin\Debug\netcoreapp3.1\VongLap.runtimeconfig.json
+C:\Users\Admin\OneDrive\Code\C#\VongLap\VongLap\bin\Debug\netcoreapp3.1\VongLap.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Code\C#\VongLap\VongLap\bin\Debug\netcoreapp3.1\VongLap.dll
+C:\Users\Admin\OneDrive\Code\C#\VongLap\VongLap\bin\Debug\netcoreapp3.1\VongLap.pdb
+C:\Users\Admin\OneDrive\Code\C#\VongLap\VongLap\obj\Debug\netcoreapp3.1\VongLap.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Code\C#\VongLap\VongLap\obj\Debug\netcoreapp3.1\VongLap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Code\C#\VongLap\VongLap\obj\Debug\netcoreapp3.1\VongLap.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Code\C#\VongLap\VongLap\obj\Debug\netcoreapp3.1\VongLap.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Code\C#\VongLap\VongLap\obj\Debug\netcoreapp3.1\VongLap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Code\C#\VongLap\VongLap\obj\Debug\netcoreapp3.1\VongLap.dll
+C:\Users\Admin\OneDrive\Code\C#\VongLap\VongLap\obj\Debug\netcoreapp3.1\VongLap.pdb
+C:\Users\Admin\OneDrive\Code\C#\VongLap\VongLap\obj\Debug\netcoreapp3.1\VongLap.genruntimeconfig.cache

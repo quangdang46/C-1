@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBoxRadio", "CoBanWF\CheckBoxRadio.csproj", "{EA155E79-951E-4307-AA90-AAA23D972BF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA155E79-951E-4307-AA90-AAA23D972BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA155E79-951E-4307-AA90-AAA23D972BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA155E79-951E-4307-AA90-AAA23D972BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA155E79-951E-4307-AA90-AAA23D972BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85364A4B-E119-462A-B2AD-049E0FD7D9ED}
+	EndGlobalSection
+EndGlobal

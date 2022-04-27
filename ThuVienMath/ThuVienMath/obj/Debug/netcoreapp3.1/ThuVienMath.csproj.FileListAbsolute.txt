@@ -1,0 +1,13 @@
+C:\Users\Admin\OneDrive\Code\C#\ThuVienMath\ThuVienMath\bin\Debug\netcoreapp3.1\ThuVienMath.exe
+C:\Users\Admin\OneDrive\Code\C#\ThuVienMath\ThuVienMath\bin\Debug\netcoreapp3.1\ThuVienMath.deps.json
+C:\Users\Admin\OneDrive\Code\C#\ThuVienMath\ThuVienMath\bin\Debug\netcoreapp3.1\ThuVienMath.runtimeconfig.json
+C:\Users\Admin\OneDrive\Code\C#\ThuVienMath\ThuVienMath\bin\Debug\netcoreapp3.1\ThuVienMath.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Code\C#\ThuVienMath\ThuVienMath\bin\Debug\netcoreapp3.1\ThuVienMath.dll
+C:\Users\Admin\OneDrive\Code\C#\ThuVienMath\ThuVienMath\bin\Debug\netcoreapp3.1\ThuVienMath.pdb
+C:\Users\Admin\OneDrive\Code\C#\ThuVienMath\ThuVienMath\obj\Debug\netcoreapp3.1\ThuVienMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Code\C#\ThuVienMath\ThuVienMath\obj\Debug\netcoreapp3.1\ThuVienMath.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Code\C#\ThuVienMath\ThuVienMath\obj\Debug\netcoreapp3.1\ThuVienMath.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Code\C#\ThuVienMath\ThuVienMath\obj\Debug\netcoreapp3.1\ThuVienMath.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Code\C#\ThuVienMath\ThuVienMath\obj\Debug\netcoreapp3.1\ThuVienMath.dll
+C:\Users\Admin\OneDrive\Code\C#\ThuVienMath\ThuVienMath\obj\Debug\netcoreapp3.1\ThuVienMath.pdb
+C:\Users\Admin\OneDrive\Code\C#\ThuVienMath\ThuVienMath\obj\Debug\netcoreapp3.1\ThuVienMath.genruntimeconfig.cache

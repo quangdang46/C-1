@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Code\C#\BaiTapListBox\BaiTapListBox\bin\Debug\BaiTapListBox.exe.config
+C:\Users\Admin\OneDrive\Code\C#\BaiTapListBox\BaiTapListBox\bin\Debug\BaiTapListBox.exe
+C:\Users\Admin\OneDrive\Code\C#\BaiTapListBox\BaiTapListBox\bin\Debug\BaiTapListBox.pdb
+C:\Users\Admin\OneDrive\Code\C#\BaiTapListBox\BaiTapListBox\obj\Debug\BaiTapListBox.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Code\C#\BaiTapListBox\BaiTapListBox\obj\Debug\BaiTapListBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Code\C#\BaiTapListBox\BaiTapListBox\obj\Debug\BaiTapListBox.Form1.resources
+C:\Users\Admin\OneDrive\Code\C#\BaiTapListBox\BaiTapListBox\obj\Debug\BaiTapListBox.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Code\C#\BaiTapListBox\BaiTapListBox\obj\Debug\BaiTapListBox.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Code\C#\BaiTapListBox\BaiTapListBox\obj\Debug\BaiTapListBox.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Code\C#\BaiTapListBox\BaiTapListBox\obj\Debug\BaiTapListBox.exe
+C:\Users\Admin\OneDrive\Code\C#\BaiTapListBox\BaiTapListBox\obj\Debug\BaiTapListBox.pdb

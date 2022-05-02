@@ -1,0 +1,12 @@
+C:\Users\Admin\OneDrive\Code\C#\RunTime\RunTime\bin\Debug\RunTime.exe.config
+C:\Users\Admin\OneDrive\Code\C#\RunTime\RunTime\bin\Debug\RunTime.exe
+C:\Users\Admin\OneDrive\Code\C#\RunTime\RunTime\bin\Debug\RunTime.pdb
+C:\Users\Admin\OneDrive\Code\C#\RunTime\RunTime\obj\Debug\RunTime.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Code\C#\RunTime\RunTime\obj\Debug\RunTime.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Code\C#\RunTime\RunTime\obj\Debug\RunTime.Form1.resources
+C:\Users\Admin\OneDrive\Code\C#\RunTime\RunTime\obj\Debug\RunTime.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Code\C#\RunTime\RunTime\obj\Debug\RunTime.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Code\C#\RunTime\RunTime\obj\Debug\RunTime.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Code\C#\RunTime\RunTime\obj\Debug\RunTime.exe
+C:\Users\Admin\OneDrive\Code\C#\RunTime\RunTime\obj\Debug\RunTime.pdb
+C:\Users\Admin\OneDrive\Code\C#\RunTime\RunTime\obj\Debug\RunTime.Form2.resources

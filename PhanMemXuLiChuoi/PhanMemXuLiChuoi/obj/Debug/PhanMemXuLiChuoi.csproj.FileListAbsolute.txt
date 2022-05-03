@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Code\C#\PhanMemXuLiChuoi\PhanMemXuLiChuoi\bin\Debug\PhanMemXuLiChuoi.exe.config
+C:\Users\Admin\OneDrive\Code\C#\PhanMemXuLiChuoi\PhanMemXuLiChuoi\bin\Debug\PhanMemXuLiChuoi.exe
+C:\Users\Admin\OneDrive\Code\C#\PhanMemXuLiChuoi\PhanMemXuLiChuoi\bin\Debug\PhanMemXuLiChuoi.pdb
+C:\Users\Admin\OneDrive\Code\C#\PhanMemXuLiChuoi\PhanMemXuLiChuoi\obj\Debug\PhanMemXuLiChuoi.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Code\C#\PhanMemXuLiChuoi\PhanMemXuLiChuoi\obj\Debug\PhanMemXuLiChuoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Code\C#\PhanMemXuLiChuoi\PhanMemXuLiChuoi\obj\Debug\PhanMemXuLiChuoi.Form1.resources
+C:\Users\Admin\OneDrive\Code\C#\PhanMemXuLiChuoi\PhanMemXuLiChuoi\obj\Debug\PhanMemXuLiChuoi.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Code\C#\PhanMemXuLiChuoi\PhanMemXuLiChuoi\obj\Debug\PhanMemXuLiChuoi.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Code\C#\PhanMemXuLiChuoi\PhanMemXuLiChuoi\obj\Debug\PhanMemXuLiChuoi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Code\C#\PhanMemXuLiChuoi\PhanMemXuLiChuoi\obj\Debug\PhanMemXuLiChuoi.exe
+C:\Users\Admin\OneDrive\Code\C#\PhanMemXuLiChuoi\PhanMemXuLiChuoi\obj\Debug\PhanMemXuLiChuoi.pdb

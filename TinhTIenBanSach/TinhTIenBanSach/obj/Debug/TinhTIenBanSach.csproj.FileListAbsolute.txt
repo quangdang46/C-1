@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Code\C#\TinhTIenBanSach\TinhTIenBanSach\bin\Debug\TinhTIenBanSach.exe.config
+C:\Users\Admin\OneDrive\Code\C#\TinhTIenBanSach\TinhTIenBanSach\bin\Debug\TinhTIenBanSach.exe
+C:\Users\Admin\OneDrive\Code\C#\TinhTIenBanSach\TinhTIenBanSach\bin\Debug\TinhTIenBanSach.pdb
+C:\Users\Admin\OneDrive\Code\C#\TinhTIenBanSach\TinhTIenBanSach\obj\Debug\TinhTIenBanSach.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Code\C#\TinhTIenBanSach\TinhTIenBanSach\obj\Debug\TinhTIenBanSach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Code\C#\TinhTIenBanSach\TinhTIenBanSach\obj\Debug\TinhTIenBanSach.Form1.resources
+C:\Users\Admin\OneDrive\Code\C#\TinhTIenBanSach\TinhTIenBanSach\obj\Debug\TinhTIenBanSach.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Code\C#\TinhTIenBanSach\TinhTIenBanSach\obj\Debug\TinhTIenBanSach.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Code\C#\TinhTIenBanSach\TinhTIenBanSach\obj\Debug\TinhTIenBanSach.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Code\C#\TinhTIenBanSach\TinhTIenBanSach\obj\Debug\TinhTIenBanSach.exe
+C:\Users\Admin\OneDrive\Code\C#\TinhTIenBanSach\TinhTIenBanSach\obj\Debug\TinhTIenBanSach.pdb

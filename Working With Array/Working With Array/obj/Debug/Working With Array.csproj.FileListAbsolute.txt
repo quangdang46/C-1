@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Code\C#\Working With Array\Working With Array\bin\Debug\Working With Array.exe.config
+C:\Users\Admin\OneDrive\Code\C#\Working With Array\Working With Array\bin\Debug\Working With Array.exe
+C:\Users\Admin\OneDrive\Code\C#\Working With Array\Working With Array\bin\Debug\Working With Array.pdb
+C:\Users\Admin\OneDrive\Code\C#\Working With Array\Working With Array\obj\Debug\Working With Array.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Code\C#\Working With Array\Working With Array\obj\Debug\Working With Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Code\C#\Working With Array\Working With Array\obj\Debug\Working_With_Array.Form1.resources
+C:\Users\Admin\OneDrive\Code\C#\Working With Array\Working With Array\obj\Debug\Working_With_Array.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Code\C#\Working With Array\Working With Array\obj\Debug\Working With Array.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Code\C#\Working With Array\Working With Array\obj\Debug\Working With Array.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Code\C#\Working With Array\Working With Array\obj\Debug\Working With Array.exe
+C:\Users\Admin\OneDrive\Code\C#\Working With Array\Working With Array\obj\Debug\Working With Array.pdb

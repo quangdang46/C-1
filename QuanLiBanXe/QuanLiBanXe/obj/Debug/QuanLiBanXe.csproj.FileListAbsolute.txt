@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Code\C#\QuanLiBanXe\QuanLiBanXe\bin\Debug\QuanLiBanXe.exe.config
+C:\Users\Admin\OneDrive\Code\C#\QuanLiBanXe\QuanLiBanXe\bin\Debug\QuanLiBanXe.exe
+C:\Users\Admin\OneDrive\Code\C#\QuanLiBanXe\QuanLiBanXe\bin\Debug\QuanLiBanXe.pdb
+C:\Users\Admin\OneDrive\Code\C#\QuanLiBanXe\QuanLiBanXe\obj\Debug\QuanLiBanXe.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Code\C#\QuanLiBanXe\QuanLiBanXe\obj\Debug\QuanLiBanXe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Code\C#\QuanLiBanXe\QuanLiBanXe\obj\Debug\QuanLiBanXe.Form1.resources
+C:\Users\Admin\OneDrive\Code\C#\QuanLiBanXe\QuanLiBanXe\obj\Debug\QuanLiBanXe.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Code\C#\QuanLiBanXe\QuanLiBanXe\obj\Debug\QuanLiBanXe.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Code\C#\QuanLiBanXe\QuanLiBanXe\obj\Debug\QuanLiBanXe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Code\C#\QuanLiBanXe\QuanLiBanXe\obj\Debug\QuanLiBanXe.exe
+C:\Users\Admin\OneDrive\Code\C#\QuanLiBanXe\QuanLiBanXe\obj\Debug\QuanLiBanXe.pdb

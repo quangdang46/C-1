@@ -1,0 +1,12 @@
+C:\Users\Admin\OneDrive\Code\C#_NangCao\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\Admin\OneDrive\Code\C#_NangCao\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\Admin\OneDrive\Code\C#_NangCao\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\Admin\OneDrive\Code\C#_NangCao\Menu\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Code\C#_NangCao\Menu\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Code\C#_NangCao\Menu\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\Admin\OneDrive\Code\C#_NangCao\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Code\C#_NangCao\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Code\C#_NangCao\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Code\C#_NangCao\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\Admin\OneDrive\Code\C#_NangCao\Menu\Menu\obj\Debug\Menu.pdb
+C:\Users\Admin\OneDrive\Code\C#_NangCao\Menu\Menu\obj\Debug\Menu.rmNewProj.resources

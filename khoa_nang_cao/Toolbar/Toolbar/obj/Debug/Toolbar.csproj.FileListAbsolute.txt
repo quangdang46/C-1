@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Code\C#_NangCao\Toolbar\Toolbar\bin\Debug\Toolbar.exe.config
+C:\Users\Admin\OneDrive\Code\C#_NangCao\Toolbar\Toolbar\bin\Debug\Toolbar.exe
+C:\Users\Admin\OneDrive\Code\C#_NangCao\Toolbar\Toolbar\bin\Debug\Toolbar.pdb
+C:\Users\Admin\OneDrive\Code\C#_NangCao\Toolbar\Toolbar\obj\Debug\Toolbar.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Code\C#_NangCao\Toolbar\Toolbar\obj\Debug\Toolbar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Code\C#_NangCao\Toolbar\Toolbar\obj\Debug\Toolbar.Form1.resources
+C:\Users\Admin\OneDrive\Code\C#_NangCao\Toolbar\Toolbar\obj\Debug\Toolbar.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Code\C#_NangCao\Toolbar\Toolbar\obj\Debug\Toolbar.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Code\C#_NangCao\Toolbar\Toolbar\obj\Debug\Toolbar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Code\C#_NangCao\Toolbar\Toolbar\obj\Debug\Toolbar.exe
+C:\Users\Admin\OneDrive\Code\C#_NangCao\Toolbar\Toolbar\obj\Debug\Toolbar.pdb

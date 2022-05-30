@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Code\C#_NangCao\QuanLiGiaoVien\QuanLiGiaoVien\bin\Debug\QuanLiGiaoVien.exe.config
+C:\Users\Admin\OneDrive\Code\C#_NangCao\QuanLiGiaoVien\QuanLiGiaoVien\bin\Debug\QuanLiGiaoVien.exe
+C:\Users\Admin\OneDrive\Code\C#_NangCao\QuanLiGiaoVien\QuanLiGiaoVien\bin\Debug\QuanLiGiaoVien.pdb
+C:\Users\Admin\OneDrive\Code\C#_NangCao\QuanLiGiaoVien\QuanLiGiaoVien\obj\Debug\QuanLiGiaoVien.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Code\C#_NangCao\QuanLiGiaoVien\QuanLiGiaoVien\obj\Debug\QuanLiGiaoVien.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Code\C#_NangCao\QuanLiGiaoVien\QuanLiGiaoVien\obj\Debug\QuanLiGiaoVien.Form1.resources
+C:\Users\Admin\OneDrive\Code\C#_NangCao\QuanLiGiaoVien\QuanLiGiaoVien\obj\Debug\QuanLiGiaoVien.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Code\C#_NangCao\QuanLiGiaoVien\QuanLiGiaoVien\obj\Debug\QuanLiGiaoVien.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Code\C#_NangCao\QuanLiGiaoVien\QuanLiGiaoVien\obj\Debug\QuanLiGiaoVien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Code\C#_NangCao\QuanLiGiaoVien\QuanLiGiaoVien\obj\Debug\QuanLiGiaoVien.exe
+C:\Users\Admin\OneDrive\Code\C#_NangCao\QuanLiGiaoVien\QuanLiGiaoVien\obj\Debug\QuanLiGiaoVien.pdb
